@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
 
   spec.license      = "MIT (example)"
   spec.author             = { "Muzammil" => "muzammilinnovativesol@gmail.com" }
-  spec.source = { :git => "https://github.com/muhammadmuzzamil/ChatSDK.git", :tag => spec.version }
+  spec.source = { :git => "https://github.com/muhammadmuzzamil/ChatSDK.git" }
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
