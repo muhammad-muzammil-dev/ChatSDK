@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "dependency"
-  spec.version      = "1.1"
+  spec.version      = "1.2"
   spec.summary      = "A short description of dependency."
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/muhammadmuzzamil/ChatSDK.git", :branch => "master", :tag => "1.1" }
+  spec.source       = { :git => "https://github.com/muhammadmuzzamil/ChatSDK.git", :branch => "master", :tag => "1.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
