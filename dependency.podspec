@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/muhammadmuzzamil/ChatSDK.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/muhammadmuzzamil/ChatSDK.git", :branch => "master", :tag => "1.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
