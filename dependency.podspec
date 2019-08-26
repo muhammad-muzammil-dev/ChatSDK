@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "dependency"
-  spec.version      = "1.0"
+  spec.version      = "1.1"
   spec.summary      = "A short description of dependency."
 
   # This description is used to generate tags and improve search results.
@@ -86,7 +86,7 @@ Pod::Spec.new do |spec|
   #
   #  CocoaPods is smart about how it includes source code. For source files
   #  giving a folder will include any swift, h, m, mm, c & cpp files.
-  #  For header files it will include any header in the folder.
+  #  For header files it will include any header in the folder.ranc
   #  Not including the public_header_files will make all headers public.
   #
 
